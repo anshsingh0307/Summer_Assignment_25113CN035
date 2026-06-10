@@ -1,5 +1,5 @@
 /* Write a program to Print character pyramid. Microsoft, Adobe, Paytm 
-      A 
+    A 
    ABA 
   ABCBA 
  ABCDCBA 
