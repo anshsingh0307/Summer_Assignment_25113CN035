@@ -11,6 +11,6 @@ int main() {
             result += s[i];
         }
     }
-    cout <<"String after removing spaces: " << result;
+    cout << "String after removing spaces: " << result;
     return 0;
 }
